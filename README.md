@@ -1,2 +1,5 @@
 # react-native-animations-demo
-Testing out Expo XDE &amp; React Native Animations
+
+
+
+Simple application designed to simulate the swipe left & right functionality of Tinder created using Expo.
